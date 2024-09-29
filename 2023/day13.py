@@ -5,4 +5,4 @@ with open("day13.in") as f:
 
 grid = []
 for line in fuck:
-    grid.append(line.strip("\n"))   
+    grid.append(line.strip("\n"))
